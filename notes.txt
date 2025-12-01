@@ -1,0 +1,7 @@
+"which process should i use for legal document knowledge base CAG or RAG?"
+RAG Retrieval Augmented Generation - LLM feed database will be augmented with the searchable or updatable knowledge base to answer the current questions
+CAG Cache Augmented Generation - feed everything to the knowledge base
+RAG has two phase system- offline(ingest and index your knowledge) and online (where you retrieve and generate on demand)
+The knowledge base in creating the law research assistant is dynamic with the new content been added all the time and massive, 
+so attempting to cache all this information would quickly exceed most models
+context windows (user prompt + retrived knowledge base)
