@@ -61,11 +61,8 @@ for idx, dist in zip(indices[0], distances[0]):
 # - Python is a versatile programming language. (score=1.4193)
 
 # Each document → converted into a vector (embedding).
-
 # FAISS stored these vectors in an index.
-
 # Converting query into vector embedding.
-
 # FAISS quickly found the closest embeddings (semantic similarity).
 
 

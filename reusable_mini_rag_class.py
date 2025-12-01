@@ -84,3 +84,9 @@ if __name__ == "__main__":
     print("Query:", query)
     print("\nGPT-4o Answer:")
     print(answer)
+
+# output:
+# Query: What tool can I use for Augmented generation for legal document?
+
+# GPT-4o Answer:
+# For augmented generation of legal documents, you can use Retrieval-Augmented Generation (RAG).
